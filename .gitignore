@@ -25,6 +25,7 @@ hs_err_pid*
 
 ### Gradle Patch ###
 **/build/
+.gradle/*
 
 ### Intellij+all Patch ###
 # Ignores the whole .idea folder and all .iml files
